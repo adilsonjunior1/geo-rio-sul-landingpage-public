@@ -1,39 +1,76 @@
-# Geo Rio Sul — Landing Page
+# 🌍 Geo Rio Sul — Landing Page Institucional
 
-Site institucional da **Geo Rio Sul**, empresa especializada em georreferenciamento, topografia e regularização fundiária, localizada em Barra Mansa – RJ.
+Landing page desenvolvida sob demanda para a **Geo Rio Sul Engenharia**, empresa especializada em georreferenciamento, topografia e regularização fundiária.
 
-## 🌐 Acesse
-
-🔗 [georiosulengenharia.com.br](https://georiosulengenharia.com.br)
-
-## 🏢 Sobre a Empresa
-
-A Geo Rio Sul oferece soluções técnicas completas em:
-
-- **Georreferenciamento de imóveis rurais** (certificação INCRA/SIGEF)
-- **Topografia e levantamento planialtimétrico**
-- **Regularização fundiária** (CCIR, CAR, Usucapião)
-- **Desmembramento e remembramento**
-- **Assessoria técnica para prefeituras e cartórios**
-
-📍 Atendimento em todo o estado do **Rio de Janeiro**, **São Paulo** e **Minas Gerais**.
-
-## 🛠️ Tecnologias
-
-- React 18 + TypeScript
-- Vite 5
-- Tailwind CSS 3
-- shadcn/ui
-- React Router
-
-## 📞 Contato
-
-- **WhatsApp:** (24) 99835-0806
-- **Instagram:** [@geo_riosul](https://www.instagram.com/geo_riosul/)
-- **CREA-RJ:** 2023107453
+O projeto foi construído com foco em apresentação profissional dos serviços, geração de leads e fortalecimento da presença digital da empresa.
 
 ---
 
-**M ARAUJO TEIXEIRA ENGENHARIA LTDA** — CNPJ: 62.776.809/0001-67
+## 🌐 Acesse a aplicação
 
-Powered by [Klyven Solutions](https://klyvensolutions.com.br)
+🔗 https://georiosulengenharia.com.br
+
+---
+
+## 🏢 Sobre o Projeto
+
+Desenvolvimento de site institucional completo, incluindo:
+
+- Estruturação estratégica do conteúdo
+- Organização dos serviços e áreas de atuação
+- Interface moderna e responsiva
+- Otimização para navegação em dispositivos móveis
+- Foco em conversão de visitantes em contatos
+
+O projeto foi entregue conforme as necessidades do cliente, visando melhorar a comunicação e captação de novos clientes.
+
+---
+
+## 🏢 Sobre a Empresa
+
+A **Geo Rio Sul Engenharia** oferece soluções técnicas em:
+
+- Georreferenciamento de imóveis rurais (certificação INCRA/SIGEF)
+- Topografia e levantamento planialtimétrico
+- Regularização fundiária (CCIR, CAR, Usucapião)
+- Desmembramento e remembramento
+- Assessoria técnica para prefeituras e cartórios
+
+📍 Atendimento em:
+- Rio de Janeiro
+- São Paulo
+- Minas Gerais
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- React + TypeScript
+- Estruturação de interface responsiva
+- Componentização reutilizável
+- Boas práticas de performance e usabilidade (UX)
+
+---
+
+## 📞 Contato
+
+- WhatsApp: (24) 99835-0806  
+- Instagram: https://www.instagram.com/geo_riosul/  
+- CREA-RJ: 2023107453  
+
+---
+
+## ⚠️ Licença e Uso
+
+Este projeto foi desenvolvido sob demanda para a Geo Rio Sul Engenharia.
+
+O código-fonte, design e estrutura são de uso exclusivo do cliente, não sendo permitida a reprodução, modificação ou redistribuição sem autorização prévia.
+
+Este repositório é disponibilizado apenas para fins de portfólio e demonstração técnica.
+
+---
+
+## 👨‍💻 Desenvolvimento
+
+Projeto desenvolvido por Adilson César Machado Junior  
+Klyven Solutions
